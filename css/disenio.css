@@ -1,0 +1,34 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+  #marco-titulo {
+
+    border: 5px solid black;
+  }
+
+.felcha
+{
+  position: absolute;
+}
+
+.texto_fl
+{
+  position: relative;
+}
+
+.card
+{
+  border-radius: 25px;
+  border-bottom-left-radius: 25px; 
+  border-bottom-right-radius: 25px;
+}
+
+
+i {
+  font-size: 20px;
+  color: red;
+  text-align: center;
+  
+}
